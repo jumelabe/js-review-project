@@ -1,2 +1,2 @@
-# JavaScript Review Project by write_your_full_name
+# JavaScript Review Project by Jumel Anthony D. Labe
 This project is a review of JavaScript concepts, From beginner to advanced.
